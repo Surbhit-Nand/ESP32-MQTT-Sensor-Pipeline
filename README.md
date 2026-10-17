@@ -31,6 +31,9 @@ This project runs in the [Wokwi](https://wokwi.com/projects/478114041706298369) 
 <img width="1715" height="977" alt="Screenshot 2026-10-17 210000" src="https://github.com/user-attachments/assets/5fac32a5-7843-42a2-8ac1-16ab454df16c" />
 <img width="955" height="960" alt="Screenshot 2026-10-17 210016" src="https://github.com/user-attachments/assets/2e04ddf0-f413-4c1e-b0f3-bc9f9a5eedb1" />
 
+
+
+
 ## Files
 
 - `sketch.ino`: ESP32 code (C++/Arduino) using the `DHT sensor library` and `PubSubClient`
